@@ -50,6 +50,10 @@ body, html {
     background-color: #fff;
 }
 
+.navy {
+    background-color: #028;
+}
+
 .right {
     float: right;
 }
@@ -78,6 +82,11 @@ body, html {
     width: 10px;
 }
 
+#divider5 {
+    height: 10px;
+    width: 600px;
+}
+
 .mediumbox {
     height: 140px;
     width: 300px;
@@ -96,7 +105,7 @@ body, html {
 }
 
 #middlerow {
-    height: 190;
+    height: 190px;
     width: 600px;
 }
 
@@ -104,4 +113,15 @@ body, html {
     height: 190px;
     width: 140px;
     
+}
+
+#bottomrow {
+    height: 110px;
+    width: 600px;
+}
+
+.box2 {
+    height: 100px;
+    width: 600px;
+    background-color: #705;
 }
