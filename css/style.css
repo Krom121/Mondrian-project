@@ -21,7 +21,7 @@ body, html {
     height: 290px;
 }
 
-.red {
+.lightred {
     background-color: #f99;
 
 }
@@ -36,6 +36,14 @@ body, html {
 
 .slategray {
     background-color: #344;
+}
+
+.darkorchid {
+    background-color: #a4d;
+}
+
+.red {
+    background-color: #f00;
 }
 
 .white {
@@ -66,13 +74,8 @@ body, html {
 }
 
 #divider4 {
-    height: 220px;
+    height: 190px;
     width: 10px;
-}
-
-#divider5 {
-    height: 10px;
-    width: 75px;
 }
 
 .mediumbox {
@@ -93,34 +96,12 @@ body, html {
 }
 
 #middlerow {
-    height: 220;
-    width: 340px;
-}
-
-#middleleftcolumn {
-    height: 220;
-    width: 85px;
-}
-
-.smallbox {
-    height: 55px;
-    width: 75px;
-    background-color: #d73;
-}
-
-.smallbox1 {
-    height: 110px;
-    width: 75px;
-    background-color: #6f0;
-}
-
-.smallbox2 {
-    height: 55px;
-    width: 75px;
-    background-color: #fcf;
-}
-
-#bottomrow {
-    height: 90px;
+    height: 190;
     width: 600px;
+}
+
+.box {
+    height: 190px;
+    width: 140px;
+    
 }
